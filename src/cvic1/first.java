@@ -3,6 +3,6 @@ package cvic1;
 public class first {
 	public static void main(String[] args) {
 		System.out.println("hello PAZ1c");
-		System.out.println("nieco");
+		System.out.println("nieco naviac");
 	}
 }
